@@ -41,7 +41,7 @@
 >
 > ## 🌐 Live Demo
 >
-> 👉 [View Website] https://github.com/fulaneey/ui-portfolio.git
+> 👉 [View Website] https://neeys-jw.netlify.app/
 >
 > ---
 >
